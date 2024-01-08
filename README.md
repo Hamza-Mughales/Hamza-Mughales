@@ -3,7 +3,7 @@
 - 🎓 I graduated from Sana'a University in Yemen in 2019 with an IT major.
 - ⚡ I love reading about many topics with a lifelong learner mindset.
 
-<h1 align="center">Hi 👋, I'm Hamza Almughales</h1>  
+<h1 align="center">Hi 👋, I'm Hamza Mughales</h1>  
 <p>As a web developer, I possess a profound enthusiasm for tackling challenges and creating a meaningful impact through programming. My expertise spans both front-end, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Vuejs</b>, <b>Bootstrap</b>, and <b>Tailwind</b> as well as back-end technologies such as <b>PHP</b>, <b>MySQL</b>, <b>Laravel</b> and <b>CodeIgniter</b>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamza-Mughales&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza-Mughales" /> </p>
