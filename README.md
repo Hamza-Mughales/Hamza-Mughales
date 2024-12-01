@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://hamza-mughales.github.io/](https://hamza-mughales.github.io/).
 
-- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1ooFeZP66mEjzOIVujaK5hJoaxaeYvdNA/view?usp=drive_link).
+- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1u5BMbhiqTK4mjbWINTYR4ClLCCAT9M_n/view?usp=drive_link).
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
