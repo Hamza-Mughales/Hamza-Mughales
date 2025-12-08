@@ -108,32 +108,7 @@ const hamza = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamza-Mughales&theme=tokyonight" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamza-Mughales&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Hamza-Mughales&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Mughales&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-
 </div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Mughales&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 <!-- Quote Section -->
