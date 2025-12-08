@@ -50,10 +50,10 @@ const hamza = {
 <div align="center">
 
 ### 🎨 Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,vue,&perline=7)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,vue&perline=7)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=php,laravel,mysql,redis,&perline=6)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=php,laravel,mysql,redis&perline=6)](https://skillicons.dev)
 
 ### 🛠️ Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,postman,vscode,phpstorm&perline=8)](https://skillicons.dev)
