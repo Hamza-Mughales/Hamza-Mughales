@@ -1,72 +1,152 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-<br />
-<div align="center" style="background-color: #343a40; color:#ffffff; padding: 20px; border-radius: 90px 5px;">
+<div align="center">
 
-[//]: # (<img src="https://avatars.githubusercontent.com/u/25439498?v=4" align="center" height="300" width="300" style="border-radius: 50%; margin-bottom: 10px;"/>)
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi+there!+I'm+Hamza+Mughales+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-## 👋 Hi, I'm Hamza Mughales!
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Hamza-Mughales&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Hamza-Mughales?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hamza-Mughales?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+</p>
 
-&lt;  🌱 I'm a Software Engineer | Full-Stack Web Developer | Expert in Laravel & Vue.js &gt;
-
-&lt; 🎓 I graduated from Sana'a University in Yemen in 2019 with an IT major &gt;
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/wave.svg" width="100%"/>
 
 </div>
 
-</br>
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-## 🛠️ My Skill Set
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,jquery,vuejs" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,php,laravel,codeigniter,filament,mysql,livewire" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,gitlab,postman" />
-    </td>
-  </tr>
-</table>
+```javascript
+const hamza = {
+    pronouns: "He" | "Him",
+    role: "Full-Stack Web Developer",
+    expertise: ["Laravel", "Vue.js", "Livewire", "Filament"],
+    education: "BSc in IT - Sana'a University (2019)",
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with coffee ☕"
+};
+```
 
+- 🔭 Currently working on **enterprise web applications**
+- 🌱 Always learning **new technologies & best practices**
+- 💬 Ask me about **Laravel, Vue.js, PHP, and Web Development**
+- 📍 Based in **Yemen**
+- ⚡ Fun fact: **I turn ☕ into </>**
+
+<br clear="both">
 
 ---
 
-## 📫 How to Reach Me
+<!-- Tech Stack Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack
 
 <div align="center">
- <a href="https://hamza-mughales.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/website-hamzamughales.info-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
- </a>
- <a href="mailto:hamzawemughales@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-hamzawemughales@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
- </a>
-<br />
- <a href="https://t.me/Hamza_Mughales" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Hamza_Mughales-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
- </a>
- <a href="https://github.com/Hamza-Mughales" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
- </a>
- <a href="https://www.linkedin.com/in/hamza-saeed-8a44b7319/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
- </a>
+
+### 🎨 Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,vue,&perline=7)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![Backend Skills](https://skillicons.dev/icons?i=php,laravel,mysql,redis,&perline=6)](https://skillicons.dev)
+
+### 🛠️ Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,postman,vscode,phpstorm&perline=8)](https://skillicons.dev)
+
 </div>
 
 ---
 
-- 👨‍💻 Some of my projects are available at [https://hamza-mughales.github.io/](https://hamza-mughales.github.io/).
+<!-- Connect Section -->
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60px"> Let's Connect
 
-- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1u5BMbhiqTK4mjbWINTYR4ClLCCAT9M_n/view?usp=drive_link).
+<div align="center">
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://hamza-mughales.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:hamzawemughales@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/Hamza_Mughales" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://www.linkedin.com/in/hamza-saeed-8a44b7319/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Hamza-Mughales" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamza-Mughales&show_icons=true&locale=en&layout=compact" alt="Hamza-Mughales" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamza-Mughales&show_icons=true&locale=en" alt="Hamza-Mughales" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-Mughales" alt="Hamza-Mughales" /></p>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1u5BMbhiqTK4mjbWINTYR4ClLCCAT9M_n/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_My_Resume-4285F4?style=for-the-badge&logoColor=white" alt="Resume"/>
+  </a>
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25px"> GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Hamza-Mughales">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Mughales&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Mughales&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages"/>
+</a>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-Mughales&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Mughales&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- Trophy Section -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Mughales&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- Quote Section -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
+</div>
+
+<div align="center">
+  
+  **💜 If you like my work, consider giving a ⭐ to my repositories!**
+  
+</div>
