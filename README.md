@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/Hamza-Mughales/Hamza-Mughales/output/wave.svg" width="100%"/>
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
 </div>
 
@@ -30,7 +30,7 @@ const hamza = {
     expertise: ["Laravel", "Vue.js", "Livewire", "Filament"],
     education: "BSc in IT - Sana'a University (2019)",
     currentFocus: "Building scalable web applications",
-    funFact: "I debug with coffee ☕"
+    passion: "Building elegant solutions to complex problems"
 };
 ```
 
@@ -38,7 +38,7 @@ const hamza = {
 - 🌱 Always learning **new technologies & best practices**
 - 💬 Ask me about **Laravel, Vue.js, PHP, and Web Development**
 - 📍 Based in **Yemen**
-- ⚡ Fun fact: **I turn ☕ into </>**
+- ⚡ Fun fact: **I love turning ideas into real products**
 
 <br clear="both">
 
@@ -63,7 +63,7 @@ const hamza = {
 ---
 
 <!-- Connect Section -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60px"> Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -101,15 +101,15 @@ const hamza = {
 <div align="center">
 
 <a href="https://github.com/Hamza-Mughales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Mughales&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Mughales&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Mughales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Mughales&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-Mughales&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Hamza-Mughales&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Mughales&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Mughales&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 
 </div>
 
