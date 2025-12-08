@@ -100,10 +100,13 @@ const hamza = {
 
 <div align="center">
 
-<a href="https://github.com/Hamza-Mughales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Mughales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Mughales&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-Mughales&theme=tokyonight" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamza-Mughales&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamza-Mughales&theme=tokyonight" alt="Most Commit Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamza-Mughales&theme=tokyonight" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamza-Mughales&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Hamza-Mughales&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
