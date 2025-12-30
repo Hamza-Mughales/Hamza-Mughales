@@ -25,9 +25,8 @@
 
 ```javascript
 const hamza = {
-    pronouns: "He" | "Him",
-    role: "Full-Stack Web Developer",
-    expertise: ["Laravel", "Vue.js", "Livewire", "Filament"],
+    role: "Software Engineer",
+    expertise: ["Laravel", "Livewire", "Filament", "Vue.js"],
     education: "BSc in IT - Sana'a University (2019)",
     currentFocus: "Building scalable web applications",
     passion: "Building elegant solutions to complex problems"
@@ -36,7 +35,7 @@ const hamza = {
 
 - 🔭 Currently working on **enterprise web applications**
 - 🌱 Always learning **new technologies & best practices**
-- 💬 Ask me about **Laravel, Vue.js, PHP, and Web Development**
+- 💬 Ask me about **PHP, Laravel and Web Development**
 - 📍 Based in **Yemen**
 - ⚡ Fun fact: **I love turning ideas into real products**
 
@@ -102,11 +101,6 @@ const hamza = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-Mughales&theme=tokyonight" alt="Profile Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamza-Mughales&theme=tokyonight" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamza-Mughales&theme=tokyonight" alt="Most Commit Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamza-Mughales&theme=tokyonight" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamza-Mughales&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
 
 </div>
 ---
